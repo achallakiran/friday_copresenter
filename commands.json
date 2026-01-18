@@ -1,0 +1,10 @@
+{
+    "next": ["next", "forward", "go ahead", "move on", "nex"],
+    "previous": ["back", "previous", "go back", "last slide"],
+    "start": ["start presentation", "begin presentation", "let's start"],
+    "stop": ["stop presentation", "end show", "exit"],
+    "maximize": ["maximize", "full screen"],
+    "take_over": ["take over", "takeover", "walk through", "control"],
+    "interrupt": [ "pause", "wait", "hold on", "interrupt", "stop"],
+    "take_photo": ["take a photo", "capture photo", "snap", "capture moment"],
+    "explain": ["friday explain", "explain this", "elaborate"]}

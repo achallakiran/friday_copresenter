@@ -1,0 +1,50 @@
+{
+    "1": {
+        "index": 1,
+        "keywords": ["intro", "first"],
+        "spoken_text": "I'm ready to assist. I can move us forward to the next slide.",
+        "duration": 3
+    },
+    "2": {
+        "index": 2,
+        "keywords": ["second"],
+        "spoken_text": "If we need to recap, I can take us back to the previous one.",
+        "duration": 3
+    },
+    "3": {
+        "index": 3,
+        "keywords": ["architecture", "third"],
+        "spoken_text": "I can change the slides based on context or keyword. Here is your architecture view. It really captures the system design beautifully.",
+        "duration": 3
+    },
+    "4": {
+        "index": 4,
+        "keywords": ["fouth", "autonomous"],
+        "spoken_text": "I can also take the lead, and run through the slides automatically.",
+        "duration": 2
+    },
+    "5": {
+        "index": 5,
+        "keywords": ["fifth"],
+        "spoken_text": "I'll do everything while keeping the live subtitles running, so everyone can follow along.",
+        "duration": 2
+    },
+    "6": {
+        "index": 6,
+        "keywords": ["sixth", "clock", "timer"],
+        "spoken_text": "I can also track your time. Say Friday Start Timer",
+        "duration": 3
+    },
+    "7": {
+        "index": 7,
+        "keywords": ["seventh", "summary"],
+        "spoken_text": "I can summarize the meeting for you regardless its a Zoom, Teams or an in-person meeting",
+        "duration": 2
+    },
+    "8": {
+        "index": 8,
+        "keywords": ["eight"],
+        "spoken_text": "Finally, You can ask me any question about the presentation and i can answer.",
+        "duration": 4
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "llm": "azure_openai",
+    "api_keys": {
+        "azure_openai": "eyJzZ252ZXIiOiIxIiwiYWxnIjoiSFMyNTYiLCJ0eXAiOiJKV1QifQ.eyJqdGkiOiIxMDMwMiIsInN1YiI6IjE4MTkiLCJpc3MiOiJXTVRMTE1HQVRFV0FZLVNURyIsImFjdCI6ImFraXJhbiIsInR5cGUiOiJBUFAiLCJpYXQiOjE3Njc2OTc0MzksImV4cCI6MTc4MzI0OTQzOX0.F0dFumgnw9bnNeN1_i4omgZYXnQA0QzV6nhPkUcHPLY"
+    },
+    "azure_config": {
+        "endpoint_base": "https://wmtllmgateway.stage.walmart.com/wmtllmgateway",
+        "deployment": "gpt-4.1@2025-04-14",
+        "api_version": "2024-10-21"
+    },
+    "system_prompt": "You are Friday, a helpful presentation assistant. If the user asks for a quick explanation, keep it under 2 sentences. If the user explicitly asks for 'details', provide a longer comprehensive answer."
+}

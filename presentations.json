@@ -4,9 +4,9 @@
         "sequence": [1, 2, 3, 4, 5, 6, 7, 8],
         "overview": "This is an auto presenter. It helps you in automatically issue regular presentation commands like next, previous, or go to a specific slides based on context or keywords. additionally it can autonomously drive the slides, maitain timers and explain about the slides that you are presenting based on a knowledge base"
     },
-    "data prod": {
-        "file": "/Users/akiran/Downloads/data_product_2026.pptx",
+    "product": {
+        "file": "/Users/akiran/Downloads/products.pptx",
         "sequence": [1, 2, 3, 4, 5],
-        "overview": ""
+        "overview": "A sample entry for products"
     }
 }

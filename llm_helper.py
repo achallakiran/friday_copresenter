@@ -2,7 +2,7 @@ import json
 import requests
 import urllib3
 
-# Suppress "InsecureRequestWarning" for the internal gateway
+# Suppress "InsecureRequestWarning" for if using an internal gateway
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 class AzureOpenAILLM:
@@ -19,7 +19,7 @@ class AzureOpenAILLM:
 
     def generate_response(self, query, context=""):
         """
-        Sends the query to the Azure/Walmart Gateway and returns the text response.
+        Sends the query to the Azure Gateway and returns the text response.
         """
         headers = {
             "Content-Type": "application/json",

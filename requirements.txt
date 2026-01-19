@@ -1,0 +1,6 @@
+requests
+urllib3
+PyQt6
+pynput
+SpeechRecognition
+pyaudio
